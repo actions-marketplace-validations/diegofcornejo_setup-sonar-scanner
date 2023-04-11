@@ -1,4 +1,4 @@
-name: 'sonar-scanner'
+name: 'sonar-scanner-nodejs'
 description: 'Make sonar-scanner available in your PATH'
 author: 'Warchant'
 inputs:
